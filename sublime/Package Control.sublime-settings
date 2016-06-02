@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Babel",
+		"Babel Snippets",
+		"Case Conversion",
+		"Color Highlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"Lodash modules snippets",
+		"Markdown Extended",
+		"Package Control",
+		"rsub",
+		"SCSS",
+		"Select Quoted",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - Flatland",
+		"TrailingSpaces",
+		"TypeScript"
+	]
+}
